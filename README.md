@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepanshu Yadav
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in InfoSec
 - 🌱 I’m currently learning Bug Bounties
 - 📫 How to reach me-> twitter-> @Deepanshu_ssl
 
