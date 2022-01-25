@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepanshu Yadav
-- 👀 I’m interested in InfoSec
-- 🌱 I’m currently learning Bug Bounties
+- 👀 I’m interested in Blockchain and Infosec
+- 🌱 I’m currently working as System Engineer @Infosys
 - 📫 How to reach me-> twitter-> @Deepanshu_ssl
 
 <!---
